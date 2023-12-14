@@ -1,0 +1,8 @@
+<svg width="1" height="160" viewBox="0 0 1 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" width="160" height="1" transform="rotate(90 1 0)" fill="#90A4AE"/>
+<mask id="mask0_1_477" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1" height="160">
+<rect x="1" width="160" height="1" transform="rotate(90 1 0)" fill="white"/>
+</mask>
+<g mask="url(#mask0_1_477)">
+</g>
+</svg>
